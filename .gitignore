@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+config_files/
+log_files/
+test_files/
+tests.ipynb
